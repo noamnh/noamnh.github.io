@@ -8,7 +8,9 @@
     eprint={2311.00837},
     archivePrefix={arXiv},
     primaryClass={cs.RO},
-    selected={true}
+    selected={true},
+    preview = {ctmp.png},
+    abstract = {Robotic manipulators are essential for future autonomous systems, yet limited trust in their autonomy has confined them to rigid, task-specific systems. The intricate configuration space of manipulators, coupled with the challenges of obstacle avoidance and constraint satisfaction, often makes motion planning the bottleneck for achieving reliable and adaptable autonomy. Recently, a class of constant-time motion planners (CTMP) was introduced. These planners employ a preprocessing phase to compute data structures that enable online planning provably guarantee the ability to generate motion plans, potentially sub-optimal, within a user defined time bound. This framework has been demonstrated to be effective in a number of time-critical tasks. However, robotic systems often have more time allotted for planning than the online portion of CTMP requires, time that can be used to improve the solution. To this end, we propose an anytime refinement approach that works in combination with CTMP algorithms. Our proposed framework, as it operates as a constant time algorithm, rapidly generates an initial solution within a user-defined time threshold. Furthermore, functioning as an anytime algorithm, it iteratively refines the solution's quality within the allocated time budget. This enables our approach to strike a balance between guaranteed fast plan generation and the pursuit of optimization over time. We support our approach by elucidating its analytical properties, showing the convergence of the anytime component towards optimal solutions. Additionally, we provide empirical validation through simulation and real-world demonstrations on a 6 degree-of-freedom robot manipulator, applied to an assembly domain.},
 }
 
 @article{MISHANI2023105967,
@@ -23,7 +25,8 @@ url = {https://www.sciencedirect.com/science/article/pii/S0952197623001513},
 author = {Itamar Mishani and Avishai Sintov},
 keywords = {Elastic wires, Convolutional autoencoder, Shape estimation},
 abstract = {Robotic manipulation of a wire by its ends requires rapid reasoning of its shape in real-time. A recent development of an analytical model has shown that sensing of the force and torque on one end can be used to determine its shape. However, the model relies on assumptions that may not be met in real world wires and do not take into account gravity and non-linearity of the Force/Torque (F/T) sensor. Hence, the model cannot be applied to any wire with accurate shape estimation. In this paper, we explore the learning of a model to estimate the shape of a wire based solely on measurements of F/T states and without any visual perception. Visual perception is only used for off-line data collection. We propose to train a Supervised Autoencoder with convolutional layers that reconstructs the spatial shape of the wire while enforcing the latent space to resemble the space of F/T. Then, the encoder operates as a descriptor of the wire where F/T states can be mapped to its shape. On the other hand, the decoder of the model is the inverse problem where a desired goal shape can be mapped to the required F/T state. With the same collected data, we also learn the mapping from F/T states to grippers poses. Then, a motion planner can plan a path within the F/T space to a goal while avoiding obstacles. We validate the proposed data-based approach on Nitinol and standard electrical wires, and demonstrate the ability to accurately estimate their shapes.},
-selected={true}
+selected={true},
+preview = {paper2.png},
 }
 
 @ARTICLE{9618864,
@@ -35,6 +38,8 @@ selected={true}
   number={1},
   pages={422-429},
   doi={10.1109/LRA.2021.3128707},
-  selected={true}
+  abstract = {The dual-arm manipulation of elastic wires has been a hard problem for many decades. Nevertheless, recent work has shown that the shape of a wire can be defined by a very simple representation. Theoretical analysis has stated that simple sensing of the force and torque at one end of the wire can be used to determine its shape. In this letter, we experimentally analyze the developed theoretical foundation. We deploy a dual-arm robotic system able to accurately manipulate an elastic wire. The system does not require complex visual perception and is able to reason about the shape of the wire by solely sensing forces and torques on one arm. Furthermore, we propose a full framework in which the mechanical properties of the wire are rapidly approximated in real-time. Then, a simple control rule based on Force/Torque feedback is used to manipulate the wire to some goal or track a planned path. We conduct various experiments on a full-scale system to analyze pose estimation and control accuracies. Results validate the benefit of the approach and demonstrate the ability to accurately manipulate a wire.},
+  selected={true},
+  preview = {paper1.png},
   }
 

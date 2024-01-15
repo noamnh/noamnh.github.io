@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-12-13 22:00:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Submitted a paper to the [International Conference on Automated Planning and Scheduling (ICAPS)](https://icaps24.icaps-conference.org) with [Yorai Shaoul](https://yoraish.com).
