@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2023-09-15 16:11:00-0400
+date: 2024-01-19 16:11:00-0400
 inline: True
 related_posts: false
 ---
-Submitted a paper to the [IEEE International Conference on Robotics and Automation](https://2024.ieee-icra.org).
+Our [paper](https://arxiv.org/abs/2311.00837) on _Constant-time Motion Planning with Anytime Refinement for Manipulation_ has been accepted to [ICRA 2024!](https://2024.ieee-icra.org).
 
 [//]: # (Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.)
 
