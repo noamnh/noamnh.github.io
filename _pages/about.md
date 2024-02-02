@@ -6,7 +6,7 @@ subtitle: <a href='https://www.ri.cmu.edu/robotics-groups/search-based-planning-
 
 profile:
   align: right
-  image: profile_me.png
+  image: profile_me.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p> 1612E Newell-Simon Hall </p>
