@@ -5,4 +5,7 @@ inline: true
 related_posts: false
 ---
 
-Submitted a paper to the [International Conference on Automated Planning and Scheduling (ICAPS)](https://icaps24.icaps-conference.org) with [Yorai Shaoul](https://yoraish.com).
+Our paper on _Accelerating Search-Based Planning for Multi-Robot Manipulation
+by Leveraging Online-Generated Experiences_ has been accepted to [International Conference on Automated Planning and Scheduling (ICAPS)](https://icaps24.icaps-conference.org). 
+
+[//]: # (with [Yorai Shaoul]&#40;https://yoraish.com&#41;.)
