@@ -1,9 +1,11 @@
-"yorai":
-  - firstname: ["Yorai", "Y.", "Y. S.", "Yorai Shaoul"]
-    url: https://yoraish.com
-
-"podolsky":
-  - firstname: ["Jiaoyang", "J.", "J. L.", "Jiaoyang Li"]
+"Shaoul":
+  - firstname: ["Yorai", "Y."]
+    url: https://imishani.github.io/
+"Likhachev":
+  - firstname: ["Maxim", "M."]
+    url: https://www.cs.cmu.edu/~maxim/
+"Li":
+  - firstname: ["Jiaoyang", "J."]
     url: https://jiaoyangli.me/
 
 "rosen":
