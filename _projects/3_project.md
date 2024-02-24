@@ -3,7 +3,7 @@ layout: page
 title: Multi-Arm Manipulation
 description: Accelerating search-based planning for multi-arm manipulation
 img: assets/img/mramp_rack_square.jpg
-redirect: https://unsplash.com
+#redirect: https://unsplash.com
 importance: 3
 category: work
 ---
