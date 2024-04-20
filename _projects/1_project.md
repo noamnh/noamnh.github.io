@@ -5,6 +5,7 @@ description: Advancing Autonomous Manufacturing
 img: assets/img/with_refine_side2.png
 importance: 1
 category: work
+redirect: https://arxiv.org/pdf/2311.00837.pdf
 related_publications: true
 ---
 
