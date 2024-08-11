@@ -2,7 +2,7 @@
 layout: post
 date: 2024-04-20 22:00:00-0400
 inline: true
-related_posts: false
+related_posts: true
 ---
 
 Our work on [motion planning for teams of robot arms](https://x-cbs.github.io/) has won the **Best Student Paper Award** at [ICAPS 2024](https://icaps24.icaps-conference.org)!
