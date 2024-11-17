@@ -1,16 +1,20 @@
 "Shaoul":
-  - firstname: ["Yorai", "Y.", "Yorai Shaoul"]
+  - firstname: ["Yorai"]
     url: https://yoraish.com/
 "Likhachev":
-  - firstname: ["Maxim", "M."]
+  - firstname: ["Maxim"]
     url: https://www.cs.cmu.edu/~maxim/
 "Li":
-  - firstname: ["Jiaoyang", "J."]
+  - firstname: ["Jiaoyang"]
     url: https://jiaoyangli.me/
 
 "Sintov":
-  - firstname: ["Avishai", "A."]
+  - firstname: ["Avishai"]
     url: https://web2.eng.tau.ac.il/wtest/Avishailab/
+
+"Vats":
+  - firstname: ["Shivam"]
+    url: https://shivamvats.com/
 
 "bach":
   - firstname: ["Johann Sebastian", "J. S."]
