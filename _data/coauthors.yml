@@ -1,21 +1,3 @@
-"Shaoul":
-  - firstname: ["Yorai"]
-    url: https://yoraish.com/
-"Likhachev":
-  - firstname: ["Maxim"]
-    url: https://www.cs.cmu.edu/~maxim/
-"Li":
-  - firstname: ["Jiaoyang"]
-    url: https://jiaoyangli.me/
-
-"Sintov":
-  - firstname: ["Avishai"]
-    url: https://web2.eng.tau.ac.il/wtest/Avishailab/
-
-"Vats":
-  - firstname: ["Shivam"]
-    url: https://shivamvats.com/
-
 "bach":
   - firstname: ["Johann Sebastian", "J. S."]
     url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
@@ -38,3 +20,18 @@
 "planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+"Shaoul":
+  - firstname: ["Yorai", "Y."]
+    url: https://yoraish.com/
+"Likhachev":
+  - firstname: ["Maxim", "M."]
+    url: https://www.cs.cmu.edu/~maxim/
+"Li":
+  - firstname: ["Jiaoyang", "J."]
+    url: https://jiaoyangli.me/
+"Sintov":
+  - firstname: ["Avishai", "A."]
+    url: https://web2.eng.tau.ac.il/wtest/Avishailab/
+"Vats":
+  - firstname: ["Shivam", "S."]
+    url: https://shivamvats.com/
