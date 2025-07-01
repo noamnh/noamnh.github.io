@@ -1,37 +1,4 @@
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
-
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
-
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
-"Shaoul":
-  - firstname: ["Yorai", "Y."]
-    url: https://yoraish.com/
-"Likhachev":
-  - firstname: ["Maxim", "M."]
-    url: https://www.cs.cmu.edu/~maxim/
-"Li":
-  - firstname: ["Jiaoyang", "J."]
-    url: https://jiaoyangli.me/
 "Sintov":
   - firstname: ["Avishai", "A."]
     url: https://web2.eng.tau.ac.il/wtest/Avishailab/
-"Vats":
-  - firstname: ["Shivam", "S."]
-    url: https://shivamvats.com/
