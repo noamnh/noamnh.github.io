@@ -2,96 +2,87 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Noam Nahum
     - name: Date of Birth
-      value: 14th March 1879
+      value: 1992
     - name: Languages
-      value: English, German
+      value: Hebrew, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: MSc in Robotics
+      institution: Tel Aviv University, Israel
+      year: 2020–2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Specialized in control, in hand manipulation.
+        - Developed robotic fingers for in-hand manipulation of thin objects using vibration.
+        - Patent filed based on thesis work.
+    - title: BSc in Mechanical Engineering
+      institution: Tel Aviv University, Israel
+      year: 2017–2021
       description:
-        - Description 1.
-        - Description 2.
+        - Focused on mechatronics and control.
+        - Received two Dean's Honors for academic excellence.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Head of Robotics & Software
+      institution: Unlimited Robotics
+      year: 2021–Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Leading full-stack robotics architecture including manipulation, navigation, and control.
+        - Developed MoveIt-based task planning,and real-time ROS 2 systems.
+        - Managed cross-functional development across embedded, perception, and control layers.
+    - title: R&D Engineer (Freelance)
+      institution: Kimba-AI
+      year: 2020–Present
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Prototyped smart IoT health devices, including firmware and PCB development.
+        - Led design of embedded electronics, actuator control, and sleep-focused hardware.
+    - title: Control & Embedded Engineer
+      institution: Formula Student Team, Tel Aviv University
+      year: 2019–2022
       description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+        - Designed control algorithms, telemetry systems, and electronics for electric race cars.
+        - Led embedded firmware development for real-time vehicle systems.
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/noamnh">GitHub Profile</a>
+      year: 2017–Present
+      description:  Projects ROS 2, MoveIt, FOC control, CAN communication, and embedded systems.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2017–2021
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+        - Two-time Dean's Honor (BSc, Tel Aviv University)
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Robotics
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Manipulation and grasping
+        - Mobile manipulator control
+        - SLAM and autonomous navigation
+        - Reinforcement Learning (RL)
+        - Control and trajectory planning
+        - ROS 2 software architectures
+    - title: Embedded Systems
       items:
-        - Description 1.
-        - Description 2.
+        - Field-Oriented Control (FOC)
+        - Real-time firmware and drivers
+        - CAN/CANFD and sensor integration
+    - title: Electronics
+      items:
+        - Board design
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Hiking, 3D printing, DIY electronics, bachata dancing, dog training
