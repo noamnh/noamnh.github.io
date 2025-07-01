@@ -1,11 +1,9 @@
 github_users:
-  - imishani
+  - noamnh
 
 github_repos:
-  - imishani/search
-  - imishani/manipulation_planning
-  - imishani/scene_builder
-  - imishani/robotics_lab
-  - imishani/bullet3
-  - imishani/ctmp
-  - imishani/elastic_wire_manipulation
+  - noamnh/noamnhFOC
+  - noamnh/VFM_Software
+  - noamnh/VFM_Firmware
+  - noamnh/TAURX
+  - noamnh/TAUTX
