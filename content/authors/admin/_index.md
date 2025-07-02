@@ -27,12 +27,17 @@ organizations:
   - name: Unlimited Robotics
     url: https://hospital-robots.com/
   - name: Kimba-AI
-    url: ""
+    url: "https://www.kimba.ai/"
 
 # Social network links
 profiles:
   - icon: at-symbol
-    url: 'mailto:noambotics@gmail.com'
+    url: 'mailto:noambotics@gmail.com'  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
+  # - icon: academicons/google-scholar
+  #   url: https://scholar.google.com/citations?user=G3ah_BAAAAAJ
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/noamnh
@@ -81,10 +86,18 @@ work:
     company_name: Kimba-AI
     company_url: ""
     date_start: 2020-06-01
-    date_end: ''
+    date_end: ''.
     summary: |
       Prototyped smart embedded devices focused on sleep and health.
       Responsible for electronics, firmware, mechanical assembly, and performance tuning.
+  - position: Researcher
+    company_name: TAU Robotics Lab
+    company_url: ""
+    date_start: 2020-01-01
+    date_end: 2022-01-01
+    summary: |
+      Research and develop, in hand manipulation control algorithm for thin object manipulation using vibration. OpenVFM
+
   - position: Control & Embedded Engineer
     company_name: Formula Student – Tel Aviv University
     company_url: ""
@@ -97,9 +110,11 @@ work:
 skills:
   - name: Robotics & Software
     items:
-      - name: ROS 2 & MoveIt
+      - name: ROS 2 & MoveIt & ROS2 Control
         percent: 90
-      - name: Control & Planning
+      - name: Robotics Software Infrastructure
+        precent: 90
+      - name: Control & Motion Planning
         percent: 90
       - name: C++ / Python
         percent: 85
@@ -111,9 +126,9 @@ skills:
         percent: 70
   - name: Tools & Simulation
     items:
-      - name: RViz, Gazebo, Real Robots
+      - name: RViz, Real Robots
         percent: 80
-      - name: SolidWorks, Fusion 360
+      - name: SolidWorks, 3D Printing
         percent: 70
 
 languages:
