@@ -10,7 +10,7 @@ tags:
   - Engineering
   - Design
 image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+  caption: ''
 ---
 
 <!-- [Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
@@ -31,6 +31,8 @@ Videos may be added to a page by either placing them in your assets/media/ media
 
 
 ## Inline Images
+
+{{< figure src="/media/racing.jpg" alt="racing" width="600" >}}
 
 go
 {{</* icon name="python" */>}} Python
