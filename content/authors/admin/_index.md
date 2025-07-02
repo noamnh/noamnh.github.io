@@ -27,17 +27,12 @@ organizations:
   - name: Unlimited Robotics
     url: https://hospital-robots.com/
   - name: Kimba-AI
-    url: "https://www.kimba.ai/"
+    url: ""
 
 # Social network links
 profiles:
   - icon: at-symbol
-    url: 'mailto:noambotics@gmail.com'  # - icon: brands/x
-  #   url: https://twitter.com/GetResearchDev
-  # - icon: academicons/google-scholar
-  #   url: https://scholar.google.com/citations?user=G3ah_BAAAAAJ
-  # - icon: academicons/orcid
-  #   url: https://orcid.org/
+    url: 'mailto:noambotics@gmail.com'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/noamnh
@@ -86,7 +81,7 @@ work:
     company_name: Kimba-AI
     company_url: ""
     date_start: 2020-06-01
-    date_end: ''.
+    date_end: ''
     summary: |
       Prototyped smart embedded devices focused on sleep and health.
       Responsible for electronics, firmware, mechanical assembly, and performance tuning.
