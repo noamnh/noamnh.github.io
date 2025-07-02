@@ -32,7 +32,7 @@ Videos may be added to a page by either placing them in your assets/media/ media
 
 ## Inline Images
 
-{{< figure src="/media/racing.jpg" alt="racing" width="600" >}}
+{{< figure src="/media/racing.jpg" alt="racing" width="600" height="400" >}}
 
 go
 {{</* icon name="python" */>}} Python
