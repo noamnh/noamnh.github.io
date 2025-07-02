@@ -107,9 +107,9 @@ skills:
     items:
       - name: ROS 2 & MoveIt & ROS2 Control
         percent: 90
-      - name: Robotics Software Infrastructure
+      - name: Robotics Core
         precent: 90
-      - name: Control & Motion Planning
+      - name: Control &  Planning
         percent: 90
       - name: C++ / Python
         percent: 85
