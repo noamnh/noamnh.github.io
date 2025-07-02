@@ -27,7 +27,7 @@ organizations:
   - name: Unlimited Robotics
     url: https://hospital-robots.com/
   - name: Kimba-AI
-    url: ""
+    url: https://kimba.ai/
 
 # Social network links
 profiles:
