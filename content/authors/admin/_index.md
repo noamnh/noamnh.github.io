@@ -3,7 +3,7 @@
 title: Noam Nahum
 
 # Name pronunciation (optional)
-name_pronunciation: Nahum Noam
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Noam
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Robotics Engineer / Control & Motion Planning Specialist
+role: Robotics Engineer / Control & Motion Planning & ROS2 
 
 # Organizations/Affiliations
 organizations:
@@ -37,13 +37,13 @@ profiles:
   - icon: brands/github
     url: https://github.com/noamnh
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/noamnahum/
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=G3ah_BAAAAAJ
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/noam-nahum-720983186/
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
+  # - icon: academicons/google-scholar
+  #   url: https://scholar.google.com/citations?user=G3ah_BAAAAAJ
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/
 
 interests:
   - Robot Control & Optimization
