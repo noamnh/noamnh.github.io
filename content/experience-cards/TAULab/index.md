@@ -25,7 +25,6 @@ summary: |
 ### 📄 Publication
 
 [📘 Article Title – Journal or Conference Name](https://www.sciencedirect.com/science/article/abs/pii/S0094114X22002798)  
-_Accepted and published as part of the OpenVFM project._
 
 ---
 
