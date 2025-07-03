@@ -97,7 +97,7 @@ sections:
     content:
       title: Experience
       filters:
-        type: experience-card
+        type: experience-cards
         featured_only: true
       order: desc
     design:
