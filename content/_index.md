@@ -117,10 +117,12 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: date-title-summary
+      view: card
+      columns: 2
+      spacing: "4rem"  #
       # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
+      # spacing:
+      #   padding: [0, 0, 0, 0]
       
 
   - block: collection
