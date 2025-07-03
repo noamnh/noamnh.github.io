@@ -30,7 +30,7 @@ summary: |
 
 --- 
 
-#### Video 2: Manipulation & Arm Planning
+#### Video 1: Manipulation & Arm Planning
 <video controls width="70%">
   <source src="juggling.mp4" type="video/mp4">
   Your browser does not support the video tag.
