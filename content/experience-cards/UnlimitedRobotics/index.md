@@ -26,7 +26,9 @@ summary: |
 <video controls width="70%">
   <source src="elevator_demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
-</video>
+</video> 
+
+--- 
 
 #### Video 2: Manipulation & Arm Planning
 <video controls width="70%">
