@@ -13,9 +13,13 @@ featured: true
 
 ### Role Summary
 
-- 🧠 Designed and programmed the **main control board**: power, kill switch logic, telemetry, and throttle control.
-- 📡 Developed a **CAN-based telemetry system** and wireless RF interface for real-time performance monitoring.
-- 🛠️ Coordinated **track-side testing**, failure debugging, and on-the-fly logic updates with the team.
+- 🧠 Designed and implemented the **main control board** for real-time vehicle logic, including throttle control, kill switch logic, and sensor integration.
+- 🧮 Applied a **Genetic Algorithm (GA)** approach to fine-tune system parameters for optimized vehicle performance on track.
+- 🛡️ Developed **safety-critical analog boards** to detect anomalies and ensure driver protection in real-time.
+- 🔌 Engineered the full **vehicle wiring system**, including power distribution, signal isolation, and connector strategy.
+- 📡 Established robust **CAN bus communication** across distributed embedded boards to minimize wiring complexity and increase modularity.
+- 🔧 Integrated **vehicle-wide sensor suite**, including interfacing with a third-party **engine ECU** to read RPM, throttle position, and critical engine data.
+- 🛠️ Led **track-side electronic testing and debugging**, implementing on-the-fly fixes and calibration during race simulations.
 
 ---
 
@@ -23,10 +27,21 @@ featured: true
 
 #### 🏎️ Car in Action
 
-<video controls width="600" style="border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); margin-bottom: 1.5rem;">
+<video
+  controls
+  style="
+    width: 100%;
+    max-width: 720px;
+    aspect-ratio: 16 / 9;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    margin-bottom: 1.5rem;
+    object-fit: cover;"
+>
   <source src="car_action.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
 
 
 #### 🧑‍🤝‍🧑 Team Photo
