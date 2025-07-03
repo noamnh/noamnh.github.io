@@ -5,6 +5,6 @@ date: 2020-01-01
 summary: |
   Researched in-hand manipulation control algorithms for thin object manipulation using vibration.  
   Project: OpenVFM.
-type: experience
+type: experience-card
 featured: true
 ---

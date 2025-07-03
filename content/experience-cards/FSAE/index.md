@@ -7,7 +7,7 @@ summary: |
   Developed control and embedded systems for a Formula SAE combustion engine race car.  
   Designed vehicle control logic, telemetry, and custom embedded boards.  
   Key contributions included telemetry design, CAN bus diagnostics, and driver control mapping.
-type: experience
+type: experience-card
 featured: true
 ---
 
