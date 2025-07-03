@@ -96,7 +96,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Projects
+      title: Experience
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
