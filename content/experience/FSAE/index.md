@@ -27,20 +27,11 @@ featured: true
 
 #### 🏎️ Car in Action
 
-<video
-  controls
-  style="
-    width: 100%;
-    max-width: 720px;
-    aspect-ratio: 16 / 9;
-    border-radius: 12px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-    margin-bottom: 1.5rem;
-    object-fit: cover;"
->
+<video controls style="width: 100%; max-width: 720px; border-radius: 12px; margin-bottom: 1rem;" preload="metadata">
   <source src="car_action.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
 
 
 
