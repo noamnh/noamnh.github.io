@@ -23,10 +23,11 @@ featured: true
 
 #### 🏎️ Car in Action
 
-<video controls width="100%">
+<video controls width="600" style="border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); margin-bottom: 1.5rem;">
   <source src="car_action.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
 
 #### 🧑‍🤝‍🧑 Team Photo
 
