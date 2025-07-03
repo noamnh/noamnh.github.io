@@ -58,26 +58,25 @@ sections:
     content:
       title: Experience
       items:
-        - title: Head of Robotics & Software
-          subtitle: Unlimited Robotics
-          link: https://hospital-robots.com/
+        - title: 🧠 Head of Robotics & Software
+          subtitle: "[Unlimited Robotics](https://hospital-robots.com/)"
           date: Mar 2021 – Present
           description: |
             Leading robotic control and planning development across arms, mobile base, and high-level task logic.  
             Built MoveIt-based pipelines, real-time ROS 2 controllers, and embedded integrations.
-        - title: R&D Engineer (Freelance)
+        - title: 🧪 R&D Engineer (Freelance)
           subtitle: Kimba-AI
           date: Jun 2020 – Present
           description: |
             Prototyped smart embedded devices focused on sleep and health.  
             Responsible for electronics, firmware, mechanical assembly, and performance tuning.
-        - title: Researcher
+        - title: 🔬 Researcher
           subtitle: TAU Robotics Lab
           date: Jan 2020 – Jan 2022
           description: |
             Researched in-hand manipulation control algorithms for thin object manipulation using vibration.  
             Project: OpenVFM.
-        - title: Control & Embedded Engineer
+        - title: 🏎️ Control & Embedded Engineer
           subtitle: Formula Student – Tel Aviv University
           date: Jan 2019 – Jan 2022
           description: |
@@ -86,6 +85,7 @@ sections:
     design:
       view: card
       columns: 2
+
 
   - block: collection
     content:
