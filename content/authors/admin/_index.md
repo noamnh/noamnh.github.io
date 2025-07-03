@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Robotics Engineer / Control & Motion Planning & ROS2 
+role: Robotics Engineer / Maker in heart / Control & Motion Planning & ROS2 
 
 # Organizations/Affiliations
 organizations:
