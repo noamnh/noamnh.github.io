@@ -54,39 +54,29 @@ sections:
   #     view: article-grid
   #     columns: 2
 
-  - block: resume-experience
+  - block: markdown
     content:
       title: Experience
-      items:
-        - position: Head of Robotics & Software
-          company_name: Unlimited Robotics
-          company_url: https://hospital-robots.com/
-          date_start: 2021-03-01
-          date_end: ""
-          summary: |
-            Leading robotic control and planning development across arms, mobile base, and high-level task logic.  
-            Built MoveIt-based pipelines, real-time ROS 2 controllers, and embedded integrations.
-        - position: R&D Engineer (Freelance)
-          company_name: Kimba-AI
-          date_start: 2020-06-01
-          date_end: ""
-          summary: |
-            Prototyped smart embedded devices focused on sleep and health.  
-            Responsible for electronics, firmware, mechanical assembly, and performance tuning.
-        - position: Researcher
-          company_name: TAU Robotics Lab
-          date_start: 2020-01-01
-          date_end: 2022-01-01
-          summary: |
-            Researched and developed in-hand manipulation control algorithms for thin object manipulation using vibration.  
-            Project: OpenVFM.
-        - position: Control & Embedded Engineer
-          company_name: Formula Student – Tel Aviv University
-          date_start: 2019-01-01
-          date_end: 2022-01-01
-          summary: |
-            Developed control and embedded systems for a Formula SAE electric race car.  
-            Designed vehicle control logic, telemetry, and custom embedded boards.
+      text: |
+        ### 🧠 Head of Robotics & Software – [Unlimited Robotics](https://hospital-robots.com/)  
+        *Mar 2021 – Present*  
+        Leading robotic control and planning development across arms, mobile base, and high-level task logic.  
+        Built MoveIt-based pipelines, real-time ROS 2 controllers, and embedded integrations.
+
+        ### 🧪 R&D Engineer (Freelance) – Kimba-AI  
+        *Jun 2020 – Present*  
+        Prototyped smart embedded devices focused on sleep and health.  
+        Responsible for electronics, firmware, mechanical assembly, and performance tuning.
+
+        ### 🔬 Researcher – TAU Robotics Lab  
+        *Jan 2020 – Jan 2022*  
+        Researched in-hand manipulation control for thin objects using vibration.  
+        Project: OpenVFM.
+
+        ### 🏎️ Control & Embedded Engineer – Formula Student, Tel Aviv University  
+        *Jan 2019 – Jan 2022*  
+        Developed control and embedded systems for an SAE electric race car.  
+        Designed vehicle control logic, telemetry, and custom embedded boards.
 
   - block: collection
     content:
