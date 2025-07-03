@@ -30,8 +30,8 @@ featured: true
 
 #### 🧑‍🤝‍🧑 Team Photo
 
-![Our Team](team_photo.jpg)
+<img src="team_photo.jpg" width="500" alt="Our Team" style="border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.15); margin-bottom: 1.5rem;" />
 
 #### 🚗 The Car
 
-![Car Photo](car_photo.jpg)
+<img src="car_photo.jpg" width="500" alt="Car" style="border-radius: 10px; margin-bottom: 1.5rem;" />
