@@ -10,7 +10,7 @@ summary: |
   Developed robotic finger prototypes and contributed to OpenVFM.
 ---
 
-**Role Summary**
+### Role Summary
 
 - 🧪 Prototyped a **novel robotic finger** capable of manipulating objects using vibration
 - 🛠️ Designed the **mechanical structure** and actuation mechanism from scratch
@@ -32,6 +32,7 @@ summary: |
 
 {{< youtube P2lIUu4Uv2w >}}
 
+---
 
 {{< youtube lrz6hk1eQE4 >}}
 
