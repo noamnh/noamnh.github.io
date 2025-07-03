@@ -103,6 +103,8 @@ sections:
     design:
       view: card
       columns: 2
+      spacing: "2rem"
+    order: desc
 
   - block: collection
     content:
