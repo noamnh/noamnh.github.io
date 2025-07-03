@@ -24,7 +24,7 @@ summary: |
 
 #### Video 1: Full-Body Robotic Task Execution - Pressing elevator button
 <video controls width="70%">
-  <source src="elevator_demo.mp4" type="video/MOV">
+  <source src="elevator_demo.MOV" type="video/MOV">
   Your browser does not support the video tag.
 </video>
 
