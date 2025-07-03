@@ -31,11 +31,11 @@ _Accepted and published as part of the OpenVFM project._
 
 ### 🎥 Video Demonstration
 
-<iframe width="100%" height="315" src="https://www.youtube.com/watch?reload=9&v=P2lIUu4Uv2w"  
-frameborder="0" allowfullscreen></iframe>
+{{< youtube P2lIUu4Uv2w >}}
 
-<iframe width="100%" height="315" src="https://www.youtube.com/watch?v=lrz6hk1eQE4"  
-frameborder="0" allowfullscreen></iframe>
+
+{{< youtube lrz6hk1eQE4 >}}
+
 
 
 
