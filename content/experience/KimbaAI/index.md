@@ -1,11 +1,11 @@
 ---
-title: "Head of Robotics & Software"
-company: "Unlimited Robotics"
-link: "https://hospital-robots.com"
-date: 2021-03-01
+title: "R&D Engineer (Freelance)"
+company: "Kimba-AI"
+date: 2020-06-01
+weight: 3
 summary: |
-  Leading robotic control and planning development across arms, mobile base, and high-level task logic.  
-  Built MoveIt-based pipelines, real-time ROS 2 controllers, and embedded integrations.
+  Prototyped smart embedded devices focused on sleep and health.  
+  Responsible for electronics, firmware, mechanical assembly, and performance tuning.
 type: experience
 featured: true
 ---
