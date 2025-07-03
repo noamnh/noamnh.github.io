@@ -54,34 +54,40 @@ sections:
   #     view: article-grid
   #     columns: 2
 
-  - block: features
+  - block: markdown
     content:
       title: Experience
-      items:
-        - title: 🧠 Head of Robotics & Software
-          subtitle: "[Unlimited Robotics](https://hospital-robots.com/)"
-          date: Mar 2021 – Present
-          description: |
-            Leading robotic control and planning development across arms, mobile base, and high-level task logic.  
-            Built MoveIt-based pipelines, real-time ROS 2 controllers, and embedded integrations.
-        - title: 🧪 R&D Engineer (Freelance)
-          subtitle: Kimba-AI
-          date: Jun 2020 – Present
-          description: |
-            Prototyped smart embedded devices focused on sleep and health.  
-            Responsible for electronics, firmware, mechanical assembly, and performance tuning.
-        - title: 🔬 Researcher
-          subtitle: TAU Robotics Lab
-          date: Jan 2020 – Jan 2022
-          description: |
-            Researched in-hand manipulation control algorithms for thin object manipulation using vibration.  
-            Project: OpenVFM.
-        - title: 🏎️ Control & Embedded Engineer
-          subtitle: Formula Student – Tel Aviv University
-          date: Jan 2019 – Jan 2022
-          description: |
-            Developed control and embedded systems for a Formula SAE electric race car.  
-            Designed vehicle control logic, telemetry, and custom embedded boards.
+      text: |
+        ## 🧠 Head of Robotics & Software  
+        **Unlimited Robotics** · [hospital-robots.com](https://hospital-robots.com)  
+        _Mar 2021 – Present_  
+        – Leading robotic control and planning across arms, mobile base, and high-level task logic  
+        – Built MoveIt-based pipelines, real-time ROS 2 controllers, and embedded integrations
+
+        ---  
+
+        ## 🧪 R&D Engineer (Freelance)  
+        **Kimba-AI**  
+        _Jun 2020 – Present_  
+        – Prototyped smart embedded devices focused on sleep and health  
+        – Responsible for electronics, firmware, mechanical assembly, and performance tuning
+
+        ---  
+
+        ## 🔬 Researcher  
+        **TAU Robotics Lab**  
+        _Jan 2020 – Jan 2022_  
+        – Researched in-hand manipulation for thin object control using vibration  
+        – Project: OpenVFM
+
+        ---
+
+        ## 🏎️ Control & Embedded Engineer  
+        **Formula Student – Tel Aviv University**  
+        _Jan 2019 – Jan 2022_  
+        – Developed control and embedded systems for a Formula SAE combustion engine race car  
+        – Designed vehicle control logic, telemetry, and custom embedded boards
+
     design:
       view: card
       columns: 2
