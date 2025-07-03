@@ -22,11 +22,11 @@ summary: |
 
 ### 🎥 Project Demonstrations
 
-#### Video 1: Full-Body Robotic Task Execution - Pressing elevator button
+<!-- #### Video 1: Full-Body Robotic Task Execution - Pressing elevator button
 <video controls width="70%">
   <source src="elevator_demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
-</video> 
+</video>  -->
 
 --- 
 
