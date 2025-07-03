@@ -20,19 +20,17 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Robotics Engineer / Maker in heart / Control & Motion Planning & ROS2 
+role: Robotics Engineer / Maker in heart / Control & Planning & ROS2 
 
 # Organizations/Affiliations
 organizations:
   - name: Unlimited Robotics
     url: https://hospital-robots.com/
-  - name: Kimba-AI
-    url: https://kimba.ai/
 
 # Social network links
 profiles:
   - icon: at-symbol
-    url: 'mailto:noambotics@gmail.com'
+    url: 'mailto:noamnhbotics@gmail.com'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/noamnh
