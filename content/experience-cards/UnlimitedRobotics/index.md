@@ -28,6 +28,14 @@ summary: |
   Your browser does not support the video tag.
 </video>  -->
 
+#### Video 1: Full-Body Robotic Task Execution – Pressing Elevator Button
+
+<video controls style="width:100%; max-width:720px; border-radius:12px; margin-bottom:1.5rem;">
+  <source src="elevator_demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 --- 
 
 #### Video 1: Manipulation & Arm Planning
