@@ -1,13 +1,15 @@
 ---
-title: "Head of Robotics & Software"
+title: "Robotics Software Engineer / Software Team Leader"
 company: "Unlimited Robotics"
 link: "https://hospital-robots.com"
 date: 2021-03-01
 type: experience-card
 featured: true
 summary: |
-  Leading robotic control and planning development across arms, mobile base, and high-level task logic.  
-  Built MoveIt-based pipelines, real-time ROS 2 controllers, and embedded integrations.
+  Led development of end-to-end robotics software pipelines, covering perception, planning, and control systems.
+  Built and deployed real-time ROS 2 controllers, MoveIt-based motion planning, and mobile manipulation behaviors.
+  Designed scalable and maintainable architectures using Docker, ROS 2, and embedded firmware integrations.
+  Delivered reliable robotic functionality across arms, mobile base, and task-level execution in dynamic environments.
 ---
 
 **Role Summary**
