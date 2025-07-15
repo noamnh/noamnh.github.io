@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "R&D Engineer (Freelance)"
 company: "Kimba-AI"
 date: 2020-06-01
@@ -7,4 +7,4 @@ summary: |
   Responsible for electronics, firmware, mechanical assembly, and performance tuning.
 type: experience-card
 featured: true
----
+--- -->

@@ -75,14 +75,14 @@ work:
     summary: |
       Leading robotic control and planning development across arms, mobile base, and high-level task logic.
       Built MoveIt-based pipelines, real-time ROS 2 controllers, and embedded integrations.
-  - position: R&D Engineer (Freelance)
-    company_name: Kimba-AI
-    company_url: ""
-    date_start: 2020-06-01
-    date_end: ''
-    summary: |
-      Prototyped smart embedded devices focused on sleep and health.
-      Responsible for electronics, firmware, mechanical assembly, and performance tuning.
+  # - position: R&D Engineer (Freelance)
+  #   company_name: Kimba-AI
+  #   company_url: ""
+  #   date_start: 2020-06-01
+  #   date_end: ''
+  #   summary: |
+  #     Prototyped smart embedded devices focused on sleep and health.
+  #     Responsible for electronics, firmware, mechanical assembly, and performance tuning.
   - position: Researcher
     company_name: TAU Robotics Lab
     company_url: ""
